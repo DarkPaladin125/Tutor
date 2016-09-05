@@ -14,6 +14,6 @@ To be defined.
 - [ ] C#
 
 ## Legal stuff
-You can clone this project, but cannot commit to it. As for the files, you can look them up and distribute them, as long as they aren't changed.
+You can clone this project, but cannot commit to it. As for its files, you can look them up and distribute them, as long as they aren't changed.
 
 Copyright &copy; Sady Sell Neto 2016
