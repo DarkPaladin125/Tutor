@@ -1,4 +1,4 @@
-﻿' Author: Sady Sell Neto
+' Author: Sady Sell Neto
 ' Copyright(C) 2016
 
 Imports System
@@ -103,7 +103,7 @@ Module Program
         Console.WriteLine(_null)
 
         ' Nullable types
-        ' Nullable types are types that can have the null value assigned.
+        ' Nullable types are types that can have the Nothing value assigned.
         ' All reference types are nullable.
         ' Value types can be turned into nullable appending a "?" after their
         '   type or identifier. (T? Is an alias to System.Nullable(Of T))
@@ -118,7 +118,7 @@ Module Program
         ' One can achieve type by omitting the type:
         Dim _inference = 200
 
-        ' You can achieve dynamic types by using "Option Strict Off".
+        ' One can achieve dynamic types by using "Option Strict Off".
         ' Will not be covered.
 
         ' Type conversions:
