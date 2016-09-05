@@ -18,4 +18,5 @@ The focus of this project is on Object Oriented Programming. However, if one is 
 
 ## Legal
 Sady Sell Neto
+
 Copyright &copy; 2016
