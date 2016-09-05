@@ -7,7 +7,7 @@ It's worth noting that most people think Imperative Programming is the paradigm 
 
 Imperative Prorgamming is a programming paradigm in which the programmer gives explicit orders to the computer. It has some "sub-paradigms", mainly Procedural Programming and Object Oriented Programming. It's opposite would be the Declarative Paradigm (languages like SQL, Prolog, among others).
 
-Procedural Programming is the paradigm that is based upon procedures (and functions). This is C language paradigm.
+Procedural Programming is the paradigm that is based upon procedures (and functions). This is the C language paradigm.
 
 The focus of this project is on Object Oriented Programming. However, if one is to learn a programming language, he/she must learn its basics. This section covers those basics.
 
@@ -20,7 +20,7 @@ This section has lots of directories, each one will cover a specific set of (rel
 3. VB.NET (version 14)
 
 ## Status
-<span style="color:red"">On hold, otherwise I will never start covering Section B, which is more urgent for my USP's social work.</span>
+On hold, otherwise I will never start covering Section B, which is more urgent for my USP's social work.
 
 ## Legal
 Sady Sell Neto
