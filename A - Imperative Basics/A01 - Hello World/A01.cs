@@ -1,5 +1,5 @@
 ﻿//Author: Sady Sell Neto
-//Copyright(C) 2016
+//Copyright (C) 2016
 
 using System;
 
